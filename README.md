@@ -83,10 +83,7 @@ npm run dev
 * ❤️ Like/Favorite images
 * ⚡ Add infinite scroll
 
----
 
 ## 👨‍💻 Author
+Jyoti Bagri
 
-* Your Name
-
----
